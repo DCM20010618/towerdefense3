@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>images/chooseEasy.png</file>
+        <file>images/chooselevelscene.png</file>
+        <file>images/dangao.png</file>
+        <file>images/easymap.jpg</file>
+        <file>images/enemy1.png</file>
+        <file>images/enemy2.png</file>
+        <file>images/enemy3.png</file>
+        <file>images/hardbutton.png</file>
+        <file>images/hardmap.jpg</file>
+        <file>images/levelup.png</file>
+        <file>images/menu.png</file>
+        <file>images/money.png</file>
+        <file>images/return.png</file>
+        <file>images/towerbase1.png</file>
+        <file>images/towerbase2.png</file>
+        <file>images/life.png</file>
+        <file>images/wave.png</file>
+        <file>config/hardWaves.plist</file>
+        <file>images/bullet1.png</file>
+        <file>images/bullet2.png</file>
+        <file>images/tower1.png</file>
+        <file>images/tower2.png</file>
+        <file>music/bossEnemyDie.mp3</file>
+        <file>music/breakdowntower.mp3</file>
+        <file>music/chooselevelscene.mp3</file>
+        <file>music/easymap.mp3</file>
+        <file>music/hardmap.mp3</file>
+        <file>music/Lose.mp3</file>
+        <file>music/mainwindow.mp3</file>
+        <file>music/normalBullet.mp3</file>
+        <file>music/tower_place.mp3</file>
+        <file>music/Win.mp3</file>
+        <file>images/start.png</file>
+    </qresource>
+</RCC>

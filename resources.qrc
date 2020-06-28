@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/backbutton.png</file>
+        <file>images/background.png</file>
+        <file>images/chooselevel.png</file>
+        <file>images/easybutton.png</file>
+        <file>images/easypattern.jpg</file>
+        <file>images/fish1.png</file>
+        <file>images/fish2.png</file>
+        <file>images/hardbutton.png</file>
+        <file>images/start.png</file>
+        <file>images/hardpattern.jpg</file>
+        <file>images/base.png</file>
+        <file>images/tower1.png</file>
+        <file>images/tower2.png</file>
+        <file>images/bullet1.png</file>
+        <file>images/bullet2.png</file>
+        <file>images/money.png</file>
+    </qresource>
+</RCC>
